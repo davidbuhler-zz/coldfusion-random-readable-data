@@ -1,6 +1,6 @@
-# Highly Random, Highly Readable Data for Coldfusion / J2EE Developers
+# Highly Random, Highly Readable Data
 
-A Coldfusion Utility that generates highly random, highly readable data
+A Coldfusion / J2EE Utility that generates highly random, highly readable data
 
 General testing, unit testing, and load-testing are complicated without random data with various possibilities to test against.
 
