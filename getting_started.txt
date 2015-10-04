@@ -1,0 +1,19 @@
+++++   GETTING STARTED WITH GAZOO
+++++   
+++++   1) Unzip the package folder to C:\ColdFusion8\wwwroot\gazoo. If you're using a different version of
+++++   Coldfusion, you'll need to change the directory path in Application.cfc. If you're using Coldfusion MX 6.1,
+++++   you will need to change the Application.cfc to Application.cfm.
+++++   
+++++   2) On a similar note, if you're using a version of ColdFusion, other than CF8, you'll need to change the following in Application.cfc:
+++++   	<cfset request.gazoo_source_directory_path = "C:\ColdFusion8\wwwroot\gazoo\images\untouched\" 		/>
+++++   	<cfset request.gazoo_output_directory_path = "C:\ColdFusion8\wwwroot\gazoo\images\manipulated\" 	/> 
+++++   
+++++   
+++++   
+++++   
+++++   
+++++   
+++++   
+++++   
+++++   
+++++   Questions, bugs, issues: http://coldfusiondatagenerator.riaforge.org/index.cfm?event=page.projectcontact
